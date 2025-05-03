@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently exploring **Open Source**
 - 🌱 I'm currently learning **Web Development & DevOps**
-- 👨‍💻 All of my projects are available at **https://personal-portfolio-iota-kohl.vercel.app/**
+- 👨‍💻 My Portfolio **https://personal-portfolio-iota-kohl.vercel.app/**
 - 📫 How to reach me: **bhagathemang360@gmail.com**
 - ⚡ Current Situation: **404: Sleep Not Found**
 
