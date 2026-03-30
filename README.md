@@ -32,8 +32,9 @@ Passionate Full Stack Developer with a love for building impactful applications 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 **Backend & Frameworks**
 
@@ -60,6 +61,8 @@ Passionate Full Stack Developer with a love for building impactful applications 
 
 I actively contribute to the following projects:
 
+* **[Rubygems.org](https://github.com/rubygems/rubygems.org)**
+* **[Metasploit Framework](https://github.com/rapid7/metasploit-framework)**
 * **[GitLab](https://gitlab.com/gitlab-org/gitlab)** (Core, Omnibus, GDK)
 * **[HolmesGPT](https://github.com/robusta-dev/holmesgpt)** (CNCF Sandbox Project)
 * **[Joomla](https://github.com/joomla/joomla-cms)**
