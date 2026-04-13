@@ -64,8 +64,7 @@ I actively contribute to the following projects:
 * **[Rubygems.org](https://github.com/rubygems/rubygems.org)**
 * **[Metasploit Framework](https://github.com/rapid7/metasploit-framework)**
 * **[GitLab](https://gitlab.com/gitlab-org/gitlab)** (Core, Omnibus, GDK)
-* **[HolmesGPT](https://github.com/robusta-dev/holmesgpt)** (CNCF Sandbox Project)
-* **[Joomla](https://github.com/joomla/joomla-cms)**
+* **[HolmesGPT](https://github.com/robusta-dev/holmesgpt)**
 
 [Check out a detailed breakdown of my contribution highlights here](https://gist.github.com/Hemang360/eed1ae99182602e5bf568970d292d828)
 
