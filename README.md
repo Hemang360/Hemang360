@@ -70,11 +70,7 @@ I actively contribute to the following projects:
 
 ---
 
-### Random Dev Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</div>
 
 <br/>
 
