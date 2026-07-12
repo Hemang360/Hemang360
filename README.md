@@ -68,14 +68,4 @@ I actively contribute to the following projects:
 
 [Check out a detailed breakdown of my contribution highlights here](https://gist.github.com/Hemang360/eed1ae99182602e5bf568970d292d828)
 
----
 
-
-
-<br/>
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=hemang360&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
